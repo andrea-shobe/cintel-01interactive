@@ -1,2 +1,2 @@
-# cintel-01interactive
+# cintel-01-interactive
 Histogram and Scatter Chart from Shiny
